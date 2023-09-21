@@ -21,5 +21,6 @@ h = h->next;
 s++;
 }
 
-return (0);
+return (s);
 }
+
