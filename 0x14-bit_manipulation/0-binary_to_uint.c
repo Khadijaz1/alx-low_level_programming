@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * binary_to_unit - a program that converts binary numbers
  * to decimal numbers
